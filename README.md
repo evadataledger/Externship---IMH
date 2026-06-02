@@ -21,16 +21,18 @@ Designed a role-based dashboard prototype to improve psychiatric post-discharge 
 Patients discharged from psychiatric inpatient care may miss critical follow-up appointments due to fragmented handoffs, unclear ownership, manual tracking processes, and documentation gaps. 
 
 ## Project Lifecycle
-1. Stakeholder Analysis
-2. Workflow Analysis
-3. Root Cause Analysis
-4. Decision Tree Design
-5. Dashboard Metric Development
-6. Dashboard Logic Design
-7. Dashboard Prototype
-8. Role-Based Access Review
-9. Workflow Simulation * Stress Testing
-10. Change Management Planning
+1. Problem Statement
+2. Stakeholder Analysis
+3. Workflow Analysis
+4. Root Cause Analysis
+5. Decision Tree Design
+6. Dashboard Metric Development
+7. Dashboard Logic Design
+8. Psychiatric Continuity Dashboard Prototype
+9. Role-Specific Dashboard Views
+10. Workflow Simulation * Stress Testing
+11. Change Management Planning
+12. Final Presentation
 
 Developed to improve visibility into post-discharge coordination risk.
 
