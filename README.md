@@ -23,34 +23,34 @@ Patients discharged from psychiatric inpatient care may miss critical follow-up 
 ## Project Lifecycle
 
 ### Phase 1: Understand the Problem
-1. [Problem Statement](Documents/Problem_Statement.pdf)
-2. Stakeholder Analysis
-3. Workflow Analysis
-4. Patient & Internal Challenges Analysis
-5. Root Cause Analysis
+1. [Problem Statement](Documents/1. Problem_Statement.pdf)
+2. [Stakeholder Analysis](Documents/2. Stakeholder_Map.pdf)
+3. [Workflow Analysis](Documents/3. Workflow_Analysis.pdf)
+4. [Patient & Internal Challenges Analysis](Documents/4. Patient_&_Internal_Challenges.pdf)
+5. [Root Cause Analysis](Documents/5. Root_Cause_Analysis.pdf)
 
 Question being answered: 
 > *What is happening and why?*
 
 ### Phase 2: Design the Solution
-6. Decision Tree Design
-7. Dashboard Logic Design
-8. Dashboard Metric Development
-9. Dashboard Metric Summary Table
+6. [Decision Tree Workflow (Text-Based)](Documents/6. Decision_Tree_Workflow (Text-Based).pdf)
+7. [Decision Tree Workflow - Logic Design](Documents/7. Decision_Tree_FlowChart.pdf)
+8. [Dashboard Metric Development](Documents/8. Dashboard_Metrics.pdf)
+9. [Dashboard Metric Summary Table](Documents/9. Dashboard_Metrics_Summary_Table.pdf)
 
 **Question being answered:**
 > *How should the system respond?*
 
 ### Phase 3: Build the Prototype
-10. Psychiatric Continuity Dashboard Prototype
-11. Role-Specific Dashboard Views
-12. Mapping Dashboard Responses to User Roles
+10. [Psychiatric Continuity Dashboard Prototype](Documents/10. Psychiatric_Continuity_Dashboard_Prototype_html.pdf)
+11. [Role-Specific Dashboard Views](Documents/11. Role_Specific_Dashboard_Views.pdf)
+12. [Mapping Dashboard Responses to User Roles](Documents/12. Mapping_Dashboard_Responses_to_User_Roles.pdf)
 
 **Question being answered:**
 > *What should each user see and do?*
 
 ### Phase 4: Validate the Solution
-13. Dashboard Simulation & Stress Testing
+12. [Mapping Dashboard Responses to User Roles](Documents/12. Mapping_Dashboard_Responses_to_User_Roles.pdf)
 
 **This is where the following was tested:**
 - Missed outreach
@@ -60,13 +60,13 @@ Question being answered:
 - Ownership failures
 
 ### Phase 5: Implementation
-14. Change Management Plan
+13. [Change Management Plan Psychiatric Discharge_Continuity_Dashboard](Documents/13. Change_Management_Plan_Psychiatric_Discharge_Continuity_Dashboard.pdf)
     
 **Question being answered:**
 > *How do we get people to actually use it?*
 
 ### Phase 6: Communication (Exeuctive Summary)
-15. Psychiatric Post-Discharge Continuity of Care Presentation
+14. [Psychiatric Post-Discharge Continuity of Care Presentation](Documents/15. Psychiatric_Post_Discharge_Continuity_of_Care_Presentation.pdf)
 
 **Methodology:** This project follows a systems-analysis approach that moves from workflow discovery and root-cause analysis to decision-support design, dashboard prototyping, role-based governance, validation, and implementation planning.
 
