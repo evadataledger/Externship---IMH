@@ -23,12 +23,13 @@ Patients discharged from psychiatric inpatient care may miss critical follow-up 
 ## Project Lifecycle
 
 ### Phase 1: Understand the Problem
+
 1. [Problem Statement](Documents/1.Problem_Statement.pdf)
-2. [Stakeholder Analysis](Documents/2.Stakeholder_Map.pdf)
+2. [Stakeholder Analysis](Documents/2.Stakeholder_Analysis.pdf)
 3. [Workflow Analysis](Documents/3.Workflow_Analysis.pdf)
 4. [Patient & Internal Challenges Analysis](Documents/4.Patient_&_Internal_Challenges.pdf)
 5. [Root Cause Analysis](Documents/5.Root_Cause_Analysis.pdf)
-
+   
 Question being answered: 
 > *What is happening and why?*
 
