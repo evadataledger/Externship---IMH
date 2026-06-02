@@ -66,7 +66,7 @@ Question being answered:
 > *How do we get people to actually use it?*
 
 ### Phase 6: Communication (Exeuctive Summary)
-15. [Psychiatric Post-Discharge Continuity of Care Presentation](Documents/15. Psychiatric_Post_Discharge_Continuity_of_Care_Presentation.pdf)
+15. [Psychiatric Post-Discharge Continuity of Care Presentation](Documents/15.Psychiatric_Post_Discharge_Continuity_of_Care_Presentation.pdf)
 
 **Methodology:** This project follows a systems-analysis approach that moves from workflow discovery and root-cause analysis to decision-support design, dashboard prototyping, role-based governance, validation, and implementation planning.
 
