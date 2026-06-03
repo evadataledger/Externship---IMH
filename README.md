@@ -67,13 +67,6 @@ Question being answered:
 ### Phase 4: Validate the Solution
 15. [Dashboard Simulation Report](Documents/Dashboard_Simulation_Report.pdf)
 
-**This is where the following was tested:**
-- Missed outreach
-- Missed appointments
-- Documentation gaps
-- Caseload overload
-- Ownership failures
-
 ### Phase 5: Implementation
 16. [Change Management Plan Psychiatric Discharge_Continuity_Dashboard](Documents/Change_Management_Plan_Psychiatric_Discharge_Continuity_Dashboard.pdf)
     
