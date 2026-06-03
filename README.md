@@ -48,7 +48,7 @@ Question being answered:
    
 10. [Decision-Support Dashboard Logic Structure](Documents/Decision_Support_Dashboard_Logic_Structure.pdf)
 
-11. [Summary Input-to-Output Logic Map]()
+11. [Summary Input-to-Output Logic Map](Documents/Summary_Input_to_Output_Logic_Map.pdf)
 
 **Question being answered:**
 > *How should the system respond?*
