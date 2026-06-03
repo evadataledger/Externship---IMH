@@ -38,7 +38,7 @@ Question being answered:
 > *What is happening and why?*
 
 ### Phase 2: Design the Solution
-6. [Decision Tree Workflow - Text-Based](Documents/Decision_Tree_Workflow (Text-Based).pdf)
+6. [Decision Tree Workflow - Text-Based](Documents/Decision_Tree_FlowChart.pdf)
    
 7. [Decision Tree Workflow - Logic Design](Documents/Decision_Tree_FlowChart.pdf)
 
