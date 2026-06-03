@@ -65,7 +65,7 @@ Question being answered:
 > *What should each user see and do?*
 
 ### Phase 4: Validate the Solution
-15. [Mapping Dashboard Responses to User Roles](Documents/Mapping_Dashboard_Responses_to_User_Roles.pdf)
+15. [Dashboard Simulation Report](Documents/Dashboard_Simulation_Report.pdf)
 
 **This is where the following was tested:**
 - Missed outreach
